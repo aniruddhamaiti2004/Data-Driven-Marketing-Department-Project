@@ -60,7 +60,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### 2. **Exploratory Data Analysis (EDA)**
 
-- **Visualized distributions** of key features to understand data patterns.
+- **Visualized distributions**: of key features to understand data patterns.
 - **Segmentation Analysis**: Grouped customers based on attributes like `Age`, `Income`, and `Spending Score` to identify distinct segments.
 - **Correlation Analysis**: Examined relationships between different features to identify potential predictors of customer behavior.
 
